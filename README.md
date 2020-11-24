@@ -1,2 +1,2 @@
 # uclaChats
-uclaChats is an optimized program to manage thousands of chats and contributions by hundred thousands of users in those chat
+uclaChats is an optimized program that involves a self designed custom hashmap to manage thousands of chats and contributions by hundred thousands of users in those chat.
